@@ -1,0 +1,917 @@
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll.config
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.pdb
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe.config
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.rsp
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe.config
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.rsp
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.AppContext.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Console.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Http.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Sockets.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.ValueTuple.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe.config
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.rsp
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.AssemblyReference.cache
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CoreCompileInputs.cache
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CopyComplete
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.dll
+D:\Study\LTW\Báo cáo cuối kì\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll.config
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe.config
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.rsp
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe.config
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.rsp
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.AppContext.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Collections.Immutable.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Console.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Globalization.Calendars.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Http.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Sockets.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Reflection.Metadata.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.ValueTuple.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe.config
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.rsp
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe.config
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Web.Infrastructure.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebGrease.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.AssemblyReference.cache
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CoreCompileInputs.cache
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CopyComplete
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll.config
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe.config
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.rsp
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe.config
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.rsp
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.AppContext.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Console.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Globalization.Calendars.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Http.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Sockets.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.ValueTuple.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe.config
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.rsp
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebGrease.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.AssemblyReference.cache
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CoreCompileInputs.cache
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CopyComplete
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Owin.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PlatformServices.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.ComponentModel.Annotations.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.pdb
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.PlatformServices.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PlatformServices.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Owin.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.ComponentModel.Annotations.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.pdb
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.xml
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\Study\Đồ án\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.xml
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\DevOne.Security.Cryptography.BCrypt.dll
+E:\Code\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll.config
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe.config
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.rsp
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe.config
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.rsp
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.AppContext.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Collections.Immutable.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Console.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Globalization.Calendars.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Http.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Sockets.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Reflection.Metadata.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.ValueTuple.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe.config
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.rsp
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe.config
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\DevOne.Security.Cryptography.BCrypt.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.PlatformServices.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PlatformServices.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyModel.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Web.Infrastructure.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Owin.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.ComponentModel.Annotations.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebGrease.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.AssemblyReference.cache
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CoreCompileInputs.cache
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CopyComplete
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.pdb
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Win32.Registry.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.AccessControl.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Cryptography.Xml.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Permissions.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Principal.Windows.dll
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebsiteGiayKingShoes.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.exe.config
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csc.rsp
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.exe.config
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\csi.rsp
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.AppContext.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Console.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Http.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Net.Sockets.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.ValueTuple.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.exe.config
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\vbc.rsp
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\DevOne.Security.Cryptography.BCrypt.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.PlatformServices.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PlatformServices.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Win32.Registry.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Owin.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.ComponentModel.Annotations.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.AccessControl.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Cryptography.Xml.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Permissions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Security.Principal.Windows.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\WebGrease.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Antlr3.Runtime.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\BCrypt.Net-Next.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\EntityFramework.SqlServer.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Facebook.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Auth.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Core.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.PeopleService.v1.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Google.Apis.Plus.v1.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\log4net.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Options.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Newtonsoft.Json.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\PagedList.Mvc.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Buffers.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.CodeDom.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.pdb
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Linq.Dynamic.Core.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Memory.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Numerics.Vectors.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Text.Encodings.Web.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Optimization.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Razor.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Deployment.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Webpages.Razor.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Helpers.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\System.Web.Mvc.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.AssemblyReference.cache
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CoreCompileInputs.cache
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.csproj.CopyComplete
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.dll
+C:\Users\trun9\Documents\Zalo Received Files\ATTT\2124801030112_NgoNguyenVu\WebsiteGiayKingShoes\obj\Debug\WebsiteGiayKingShoes.pdb
